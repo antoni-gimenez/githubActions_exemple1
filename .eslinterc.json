@@ -13,7 +13,7 @@
     "no-unused-vars": "warn",
     "no-undef": "error",
     "no-extra-semi": "warn",
-    "no-console": "off",
+    "no-console": "error",
     "eqeqeq": "error",
     "curly": "error"
   }
